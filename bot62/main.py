@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import telebot
 import losev/knb
+import losev/mantra
 
 token = "LaLaLaLaLa"
 bot = telebot.TeleBot(token)
